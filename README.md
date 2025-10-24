@@ -98,9 +98,9 @@ The system continuously reads multiple sensors — *LDR, **Temperature (MCP9700)
 
 ## 🧾 Output
 *Example (PC Serial Terminal):*
-![pc serial terminal](<insert-your-block-diagram-image-link-here>)
+![pc serial terminal](i1.jpg)
 *LCD Display Output:*
-![lcd display](<insert-your-block-diagram-image-link-here>)
+![lcd display](<i2.jpg)
 ---
 
 ## 🚀 Future Improvements
