@@ -113,4 +113,4 @@ The system continuously reads multiple sensors — *LDR, **Temperature (MCP9700)
 *Keshav S. Sindhe*  
 📧 [keshavsshinde5@gmail.com](mailto:keshavsshinde5@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/keshav-sindhe5)  
-💻 [GitHub](https://github.com/<your-github->keshavsindhe)
+💻 [GitHub](https://github.com/keshavsindhe)
